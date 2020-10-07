@@ -1,0 +1,5 @@
+respawn = 2;
+respawnDelay = 10;
+
+#include "defines.hpp"
+#include "dialogs.hpp"
