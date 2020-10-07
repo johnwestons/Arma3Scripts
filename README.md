@@ -1,3 +1,5 @@
+**New ** Check for Mission File read to test 
+
 # Arma3Scripts
 Scripts for Arma 3.
 put this addaction in the init of any object
